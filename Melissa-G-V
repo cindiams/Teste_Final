@@ -43,3 +43,33 @@
    43  git pull
    44  git pull
    45  history > Melissa-G-V
+   46  git status
+   47  git add Melissa-G-V
+   48  git commit
+   49  git push --set-upstream origin master
+   50  git pull
+   51  git push --set-upstream origin master
+   52  git status
+   53  git pull
+   54  git commit
+   55  git reset
+   56  git pull
+   57  git push --set-upstream origin
+   58  git pull
+   59  git status
+   60  git add README.md
+   61  git status
+   62  git pull
+   63  git push --set-upstream origin
+   64  git pull
+   65  git checkout HEAD^ README.md
+   66  git reset -hard
+   67  git reset --hard
+   68  git pull
+   69  git pull
+   70* 
+   71  git reset --hard
+   72  git pull
+   73  git checkout -b History
+   74  git pull
+   75  history > Melissa-G-V
