@@ -1,0 +1,79 @@
+    1  git checkout master
+    2  git status
+    3  cd Repositorio/
+    4  ls
+    5  cd ..
+    6  mkdir repoCindia
+    7  cd repoCindia/
+    8  ls
+    9  git clone https://github.com/Melissa-G-V/Atividade_Final.git
+   10  ls
+   11  cd Atividade_Final/
+   12  git checkout -b feature/soma
+   13  git push
+   14  git push --set-upstream origin feature/soma
+   15  git status
+   16  git push --set-upstream origin feature/soma
+   17  git config --global cindiams
+   18  cd..
+   19  cd ..
+   20  ls
+   21  git clone https://github.com/cindiams/Teste_Final.git
+   22  ls
+   23  cd Teste_Final/
+   24  git checkout -b feature/soma
+   25  git push
+   26  git push --set-upstream origin feature/soma
+   27  ls
+   28  git status
+   29  cd ..
+   30  git checkout -b feature/mult
+   31  cd ..
+   32  cd repoCindia/
+   33  cd Teste_Final/
+   34  cd ..
+   35  cd Teste_Final/
+   36  git checkout master
+   37  git checkout -b feature/mult
+   38  git status
+   39  git push
+   40  git push --set-upstream origin feature/mult
+   41  git pull
+   42  git status
+   43  git add
+   44  git add Calculadora.js 
+   45  git status
+   46  git add Calculadora.js 
+   47  git status
+   48  git commit -m ":memo: Adiciona Feature Multiplicacao"
+   49  git push
+   50  git status
+   51  cd ..
+   52  cd Teste_Final/
+   53  git checkout master
+   54  git pull
+   55  git checkout -b feature/sum
+   56  git checkout feature/soma
+   57  git merge master
+   58  git status
+   59  git add Calculadora.js 
+   60  git commit -m ":memo: Adiciona Feature de Soma"
+   61  git push
+   62  git checkout master
+   63  git pull
+   64  git tag -a 1.0.0
+   65  git branch
+   66  git push
+   67  git tag -a 1.0.0 -m ‘Atividade Final’
+   68  git tag -a 1.0.0 -m ‘Atividade Versionamento’
+   69  git tag -a 1.0.0 -m "Atividade Versionamento"
+   70  git branch
+   71  git status
+   72  git push origin -tags
+   73  git push
+   74  git checkout 1.0.0
+   75  git status
+   76  git checkout master
+   77  git tag
+   78  git push origin 1.0.0
+   79  history > cindiams
