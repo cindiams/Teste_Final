@@ -1,0 +1,45 @@
+    1  git init
+    2  git clone git@github.com:cindiams/Teste_Final.git
+    3  git status
+    4  cd Teste_Final
+    5  git status
+    6  git ls
+    7  git checkout -b feature/sub
+    8  gitmoji -i
+    9  ls
+   10  git push
+   11  git push --set-upstream origin feature/sub
+   12  git remote add git@github.com:Melissa-G-V/Teste_Final.git
+   13  git remote add origem git@github.com:Melissa-G-V/Teste_Final.git
+   14  git status
+   15  git status
+   16  git add Calculadora.js
+   17  git commit
+   18  git push --set-upstream origin feature/sub
+   19  git push --set-upstream origem feature/sub
+   20  git status
+   21  git add Calculadora.js
+   22  git commit
+   23  git push --set-upstream origin feature/sub
+   24  git checkout master
+   25  git status
+   26  git pull
+   27  git checkout -b feature/div
+   28  git status
+   29  git add Calculadora.js
+   30  git commit
+   31  git push --set-upstream origin feature/div
+   32  git checkout master
+   33  git pull
+   34  git pull
+   35  git pull
+   36  git checkout feature/div
+   37  git status
+   38  git checkout master
+   39  git pull
+   40  git pull
+   41  git pull
+   42  git pull
+   43  git pull
+   44  git pull
+   45  history > Melissa-G-V
